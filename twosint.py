@@ -1,7 +1,4 @@
 # complete tool with cmd line interface for more advanced users
-
-# author : derrick
-
 # project name : tweter scraping
 
 import twint
@@ -24,8 +21,6 @@ print(r"""
 
                                                                 
 twosint - Twitter OSiNT framework .
-Credits - @ DERRICK KIGAME
-
 """)
 print()
 username = input("twosint~# Before we start the investigation, please enter your target's username -> ")
